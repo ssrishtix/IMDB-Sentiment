@@ -9,7 +9,7 @@ Lemmatization (using WordNetLemmatizer)
 
 The goal is to observe the impact on vocabulary size, text clarity, and information retention.
 
-🛠 Steps Performed
+### Steps Performed
 Cleaned the text: lowercasing, punctuation removal, digit removal, etc.
 
 Removed custom stopwords.
